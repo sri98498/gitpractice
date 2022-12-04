@@ -1,1 +1,3 @@
-2nd file in MainTXT to test weather that will copy in other branches
+2nd file in MainTXT to test weather that will copy in other branches.
+addin data and moving to remote repo
+Moving to Git Repo
